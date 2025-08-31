@@ -5,6 +5,8 @@ VisualStudioVersion = 17.14.36414.22
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "FirstApp", "FirstApp\FirstApp.pyproj", "{5E0CF4E8-1FF3-46C9-AC6F-EB1E160A5EEE}"
 EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "DCR", "..\..\..\My-Repos\FirstApp\DCR\DCR.pyproj", "{61CA1358-CF9E-40A5-84E0-4610A368A824}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -13,6 +15,8 @@ Global
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{5E0CF4E8-1FF3-46C9-AC6F-EB1E160A5EEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{5E0CF4E8-1FF3-46C9-AC6F-EB1E160A5EEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61CA1358-CF9E-40A5-84E0-4610A368A824}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61CA1358-CF9E-40A5-84E0-4610A368A824}.Release|Any CPU.ActiveCfg = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
